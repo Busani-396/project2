@@ -1,2 +1,2 @@
-#Demo app
-##Running the demo application
+# Demo app
+## Running the demo application
